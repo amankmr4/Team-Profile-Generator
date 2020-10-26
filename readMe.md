@@ -23,19 +23,19 @@ So, that managers are able to monitor their team member details
 
 
 ## Project Screenshot
-![Screentshot 1](././Screenshots/screenshot1.JPG)
+![Screentshot 1](./screenshots/screenshot1.JPG)
 
-![Screentshot 2](./Screenshots/screenshot2.JPG)
+![Screentshot 2](./screenshots/screenshot2.JPG)
 
-![Screentshot 3](./Screenshots/screenshot3.JPG)
+![Screentshot 3](./screenshots/screenshot3.JPG)
 
-![Screentshot 4](./Screenshots/screenshot4.JPG)
+![Screentshot 4](./screenshots/screenshot4.JPG)
 
-![Screentshot 5](./Screenshots/screenshot5.JPG)
+![Screentshot 5](./screenshots/screenshot5.JPG)
 
-![Screentshot 6](./Screenshots/screenshot6.JPG)
+![Screentshot 6](./screenshots/screenshot6.JPG)
 
-![Screentshot 7](./Screenshots/screenshot7.JPG)
+![Screentshot 7](./screenshots/screenshot7.JPG)
 
 ## License
 
