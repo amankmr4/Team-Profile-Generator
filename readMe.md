@@ -23,7 +23,6 @@ So, that managers are able to monitor their team member details
 
 
 ## Project Screenshot
-These are images for using the project
 ![Screentshot 1](././Screenshots/screenshot1.JPG)
 
 ![Screentshot 2](./Screenshots/screenshot2.JPG)
@@ -34,7 +33,6 @@ These are images for using the project
 
 ![Screentshot 5](./Screenshots/screenshot5.JPG)
 
-These screenshots are for testing
 ![Screentshot 6](./Screenshots/screenshot6.JPG)
 
 ![Screentshot 7](./Screenshots/screenshot7.JPG)
